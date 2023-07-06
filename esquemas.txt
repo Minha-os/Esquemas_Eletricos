@@ -1,1 +1,134 @@
-
+[
+	{
+		"modelo":"Zenfone 2 Laser - ZE500KL",
+		"marca":"Asus",
+		"tamanho":"2,6MB",
+		"link":"https://drive.google.com/uc?export=download&id=1UTzAcloxlFu9ntLAqNkf4k3O_LD5Zwuq"
+	},
+	{
+		"modelo":"Zenfone 2 Laser - ZE550KL",
+		"marca":"Asus",
+		"tamanho":"8,3MB",
+		"link":"https://drive.google.com/uc?export=download&id=1GB-MwmnrUNCf1lFjug_2VRFDt0SzsouG"
+	},
+	{
+		"modelo":"Zenfone 2 Laser - ZE600KL",
+		"marca":"Asus",
+		"tamanho":"6MB",
+		"link":"https://drive.google.com/uc?export=download&id=1NZ6tc2iEFVihMdVDLbiZV9_Q3bZnAkmc"
+	},
+	{
+		"modelo":"Zenfone 3 Max - ZV553KL",
+		"marca":"Asus",
+		"tamanho":"9,1MB",
+		"link":"https://drive.google.com/uc?export=download&id=1GSlZYJ7WIEZWT4WGnIeOXayblSDE51uY"
+	},
+	{
+		"modelo":"Zenfone 3 - ZE520KL",
+		"marca":"Asus",
+		"tamanho":"2,8",
+		"link":"https://drive.google.com/uc?export=download&id=1ron10E7lzJorIdGHr9eP09BtpxAdn3et"
+	},
+	{
+		"modelo":"Zenfone 3 - ZE552KL",
+		"marca":"Asus",
+		"tamanho":"4,1MB",
+		"link":"https://drive.google.com/uc?export=download&id=1QJ2UcJPW8zOOX2Bo9W4-Q0R_OWO5XlBO"
+	},
+	{
+		"modelo":"Zenfone 4 - A400CG",
+		"marca":"Asus",
+		"tamanho":"2,2MB",
+		"link":"https://drive.google.com/uc?export=download&id=1TwGwouuFW90_Liuax8BOoHOjzE7FPV_X"
+	},
+	{
+		"modelo":"Zenfone 4 - A450CG",
+		"marca":"Asus",
+		"tamanho":"2,9MB",
+		"link":"https://drive.google.com/uc?export=download&id=1LmIZaUpQRqHe_HZiRS3Nm4vk8PeNq6Kd"
+	},
+	{
+		"modelo":"Zenfone 5 - A500CG",
+		"marca":"Asus",
+		"tamanho":"2,8MB",
+		"link":"https://drive.google.com/uc?export=download&id=11dzV3BzTxVL_IIHMkkBXMlhs6WVY8noN"
+	},
+	{
+		"modelo":"Zenfone 5 - A502CG",
+		"marca":"Asus",
+		"tamanho":"2,3MB",
+		"link":"https://drive.google.com/uc?export=download&id=1SasRnjQCB1YI6kHwHjVPXHeZXyvDENxk"
+	},
+	{
+		"modelo":"Zenfone 5 Lite - A502CG",
+		"marca":"Asus",
+		"tamanho":"3,5MB",
+		"link":"https://drive.google.com/uc?export=download&id=1QJrLP0NYvOATXBXlSFKKOk28YNqmUldO"
+	},
+	{
+		"modelo":"Zenfone 6 - A600CG",
+		"marca":"Asus",
+		"tamanho":"2,4MB",
+		"link":"https://drive.google.com/uc?export=download&id=1L8PsTB_m78t9kMm0sezhjzuoWoiMhdqW"
+	},
+	{
+		"modelo":"Zenfone 6 - ZS630KL",
+		"marca":"Asus",
+		"tamanho":"6,3MB",
+		"link":"https://drive.google.com/uc?export=download&id=1i_1LRTI0LPnVurUgLY0VYTBcko-YNRl9"
+	},
+	{
+		"modelo":"Zenfone C - ZC541CG",
+		"marca":"Asus",
+		"tamanho":"1,8MB",
+		"link":"https://drive.google.com/uc?export=download&id=13J3NLJf5MJ5G8k-jeLwwrWkfMAcnG-n9"
+	},
+	{
+		"modelo":"Zenfone GO - T500",
+		"marca":"Asus",
+		"tamanho":"2,3MB",
+		"link":"https://drive.google.com/uc?export=download&id=1ylIU5uA47Vrsq_lL-6TowJccU2UwvshC"
+	},
+	{
+		"modelo":"Zenfone GO - ZC500TG",
+		"marca":"Asus",
+		"tamanho":"5,2MB",
+		"link":"https://drive.google.com/uc?export=download&id=1RymXHtCcA8PB9w-FzgY2xI24ZZGlco5T"
+	},
+	{
+		"modelo":"Zenfone Live - ZB501KL",
+		"marca":"Asus",
+		"tamanho":"3,8MB",
+		"link":"https://drive.google.com/uc?export=download&id=1n1xA7OJjeiv6y9Bo_TN4GElHwziMB1J2"
+	},
+	{
+		"modelo":"Zenfone Max M1 - ZB555KL",
+		"marca":"Asus",
+		"tamanho":"4,4MB",
+		"link":"https://drive.google.com/uc?export=download&id=1R2YLYzoiF-g2h_nUlxRPcqS1AGnZhzCl"
+	},
+	{
+		"modelo":"Zenfone Max M2 - ZB633KL",
+		"marca":"Asus",
+		"tamanho":"3,2MB",
+		"link":"https://drive.google.com/uc?export=download&id=1yVLMvsRyc9irGVtHJsNPVicGFg8k_UH2"
+	},
+	{
+		"modelo":"Zenfone Max Pro M1 - ZB601KL",
+		"marca":"Asus",
+		"tamanho":"2,5MB",
+		"link":"https://drive.google.com/uc?export=download&id=1NW7uo56mJDvTEs3hwuO_xFP1M3KV0PGn"
+	},
+	{
+		"modelo":"Zenfone Selfie",
+		"marca":"Asus",
+		"tamanho":"1,4MB",
+		"link":"https://drive.google.com/uc?export=download&id=1WYj7FE6w24Y1SepSyjtYr3UPgoF6uRVx"
+	},
+	{
+		"modelo":"Zenfone GO - T500",
+		"marca":"Asus",
+		"tamanho":"2,3MB",
+		"link":"https://drive.google.com/uc?export=download&id=1ylIU5uA47Vrsq_lL-6TowJccU2UwvshC"
+	}
+]
